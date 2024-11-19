@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+ .container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    color: #ffffff;
+ }
+ .I{
+    border-radius: 20px;
+    background-color: #e58ef8;
+ }
+ body{
+    background-color: #afaeae;
+ }
+ .btn{
+    margin-top: 8px;
+    height: 35px;
+    width: 135px;
+    border-radius: 15px;
+ }
+ .resultado{
+    color:aqua
+ }

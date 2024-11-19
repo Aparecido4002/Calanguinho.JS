@@ -1,0 +1,17 @@
+.bott{
+    width: 135px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #6c6c6c;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+
+}
+body{
+    background-color: aliceblue;
+}
