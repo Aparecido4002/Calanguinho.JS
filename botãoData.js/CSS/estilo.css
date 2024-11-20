@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.geral{
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color:#999999;
+    justify-content: center;
+    display: flex;
+    
+}
+body{
+    display: flex;
+}
+.texto1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: #ff23a4;
+}
+.div{
+    flex-direction: column;
+    display: flex ;
+   gap: 2rem;
+}
+.botao{
+    height: 45px;
+    width: 145px;
+    border-radius: 15px;
+    color: #ff23a4;
+    background-color: #999999 ;
+    border-color: aliceblue;
+   
+}
+.DATA{
+    color: #ff23a4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
