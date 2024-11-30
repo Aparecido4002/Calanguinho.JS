@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    padding: 0%;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.ajeita{
+    justify-content: center;
+    flex-direction: column;
+    padding: 50vh;
+    gap: 10rem;
+}
+.botao{
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    width: 135px;
+    height: 35px;
+}
+.cores{
+    align-items: center;
+    justify-content: center;
+}
